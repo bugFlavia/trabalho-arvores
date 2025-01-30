@@ -1,0 +1,7 @@
+digraph {
+	"20 (PRETO)" -> "10 (PRETO)"
+	"20 (PRETO)" -> "30 (PRETO)"
+	"10 (PRETO)" -> "5 (VERMELHO)"
+	"10 (PRETO)" -> "15 (VERMELHO)"
+	"30 (PRETO)" -> "25 (VERMELHO)"
+}
